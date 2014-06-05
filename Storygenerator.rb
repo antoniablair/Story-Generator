@@ -204,7 +204,7 @@ Name a very large city."
 Okay, choose a gem or precious metal."
     scifiMetal = gets.chomp.capitalize
     puts "
-Now pick a transportation device."
+Now pick a vehicle or transportation device."
     scifiTransport = gets.chomp.capitalize
 
     puts "
@@ -217,8 +217,8 @@ PRESS ENTER TO CONTINUE."
 
     puts "------------- * SCI-FI STORY * --------------
 
-You live in the #{scifiMetal} district in downtown #{scifiCity}. You're a mysterious one, with a #{scifiColor} mohawk and a string of silver piercings scattered across your cheeks. By day, you work in production at a #{scifiElectronic} factory. At night,
-you spend your earnings in dance halls and clubs.
+
+You live in the #{scifiMetal} district in downtown #{scifiCity}, working in production at the #{scifiElectronic} factory. You're a mysterious one, with a #{scifiColor} mohawk and a string of silver piercings scattered across your cheeks. 
 
 No one knows you, and no one knows where you came from. You scarcely know yourself." 
 
@@ -416,3 +416,5 @@ What kind of story would you like to hear today?
 Your choices are: Rom-Com, Cop Story, or Sci-Fi."
 
 choosestory(username)
+
+# initialize choosestory method
