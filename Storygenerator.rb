@@ -230,17 +230,12 @@ Your name is #{username}, but you are not actually #{username}."
 continue = gets.chomp
 
 puts "
-You share #{username}'s past, but only because it was planted inside you."
+You're a repository of #{username}'s experiences and emotions. Like a memory drive, but for real memories. A living, breathing backup system."
 
 continue = gets.chomp
 
 puts "
-You're a repository of experiences and emotions. Like a memory drive, but for real memories. A living, breathing backup system."
-
-continue = gets.chomp
-
-puts "
-...It's complicated."
+...A very expensive backup system."
 
 continue = gets.chomp 
 
@@ -256,8 +251,7 @@ puts "When the day finally comes that #{username}'s mind is injured or aged, tha
 continue = gets.chomp 
 
 puts "
-You will leave the #{scifiMetal} district like a #{scifiAnimal} is led to slaughter. On that day, #{scifiTransport}'s
-story will end, but #{username}'s story will continue unimpeded.
+On that day, you will leave the #{scifiMetal} district forever. #{scifiTransport}'s story will end, but #{username}'s story will continue unimpeded.
 
 It is what you were made to do." 
 
@@ -271,20 +265,17 @@ print " You were never one for following the rules."
 continue = gets.chomp 
 
 puts "
-You try to test the limits of your shared personality. You stray as far from your transplanted memories as possible. 
+You try to test the limits of your shared personality. You stray as far from your implanted memories as possible. 
 
-You learn to enjoy the foods that #{username} never ate, frequent the nightclubs that #{username} never wanted, wear a shyness that #{username} never had."
-
-continue = gets.chomp 
-
-puts "You wonder how similar you are, after all this time. It has been two years since your last memory update, after all. Are you still the exact same person?" 
+You learn to enjoy the foods that #{username} never ate, frequent the areas that #{username} never liked, wear a cautiousness that #{username} never had."
 
 continue = gets.chomp 
 
-puts "
-Still, two years is not enough for a life."
+puts "You wonder how similar you are, after all this time. It has been two years since your last memory update, after all. Are you still the exact same person?
 
-continue = gets.chomp
+Two years is not enough for a life." 
+
+continue = gets.chomp 
 
 puts "
 You try to uncover the meaning of existence, studying #{scifiPhilosopher} and immersing yourself in philosophy. You wonder if the self is inherent, whether fate is pre-determined, and if we are truly the sum of our experiences."
