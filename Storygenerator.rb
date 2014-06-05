@@ -118,8 +118,7 @@ print " but your love life is a total mess!"
 continue = gets.chomp
 
 puts "
-Your bff, #{romcomFriend}, keeps trying to set you up on blind dates, but you always seem to find a silly excuse not to go. 
-Your friends keep telling you that you are all work and no play, and you are going to end up old and alone!" 
+Your bff, #{romcomFriend}, keeps trying to set you up on blind dates, but you always seem to find a silly excuse not to go." 
 
 continue = gets.chomp 
 
@@ -129,8 +128,7 @@ who is quite possibly the most arrogant person you've ever met. You find out tha
 
 continue = gets.chomp
 
-puts "Sensing your fury, #{romcomCrush} tells you that you need to learn to 'chill out.' 
-
+puts "
 You tell #{romcomCrush} that they are a total turd #{romcomPastry} and if they ever speak to you in public again, you will punch them in the 
 face!"
 
