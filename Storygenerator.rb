@@ -79,11 +79,11 @@ On the flip side, what job would be THE worst? (i.e., telemarketer)"
     romcomProfession2 = gets.chomp
     puts "
 Who is your sassiest friend?"
-    romcomFriend = gets.chomp
+    romcomFriend = gets.chomp.capitalize
 
     puts "
 Who is your favorite fashion designer?"
-    romcomDesigner = gets.chomp 
+    romcomDesigner = gets.chomp.capitalize
     puts "
 Who do you think is a total hottie?"
     romcomCrush = gets.chomp.capitalize
